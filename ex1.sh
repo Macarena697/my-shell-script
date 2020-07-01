@@ -1,5 +1,9 @@
 #!/bi/bash\crev"\
-#Eu sou Tryber e...
+shell-script-updates
+#Vou ter muito sucesso na programação!
+
+
+
 VAR="Shell Scrip"
 echo $VAR
 
